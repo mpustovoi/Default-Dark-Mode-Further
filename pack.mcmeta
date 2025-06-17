@@ -9,5 +9,13 @@
       "translate": "resourcepack.ddmf.descr",
       "fallback": "Welcome to further dark side!\n§8Add-on by Karbin_Drem for 1.20.X+"
     }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": { "min_inclusive": 34, "max_inclusive": 55 },
+        "directory": "overlay_34"
+      }
+    ]
   }
 }
