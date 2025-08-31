@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    Default Dark Mode: Further это дополнение к Default Dark Mode: Expansion. Оно добавляет и исправляет около 20 модов. Рекомендуется использовать все наборы ресурсов вместе для получения наилучшего опыта использования Default Dark Mode.
+    Default Dark Mode: Further это дополнение к Default Dark Mode: Expansion. Оно добавляет и исправляет текстуры интерфейсов у около 65 модов. Рекомендуется использовать все наборы ресурсов вместе для получения наилучшего опыта использования Default Dark Mode.
 </p>
 
 </details>
@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-    Default Dark Mode: Further is an add-on of Default Dark Mode: Expansion. It adds/fixes about 20 mods. It's recommended to use all resource packs together for the best Default Dark Mode experience possible.
+    Default Dark Mode: Further is an add-on of Default Dark Mode: Expansion. It adds/fixes about 65 mods' GUI textures. It's recommended to use all resource packs together for the best Default Dark Mode experience possible.
 </p>
