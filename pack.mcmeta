@@ -1,9 +1,11 @@
 {
   "pack": {
     "pack_format": 18,
+    "min_format": 18,
+    "max_format": 69,
     "supported_formats": {
       "min_inclusive": 18,
-      "max_inclusive": 64
+      "max_inclusive": 69
     },
     "description": {
       "translate": "resourcepack.ddmf.descr",
@@ -13,7 +15,7 @@
   "overlays": {
     "entries": [
       {
-        "formats": { "min_inclusive": 34, "max_inclusive": 64 },
+        "formats": { "min_inclusive": 34, "max_inclusive": 69 },
         "directory": "overlay_34"
       }
     ]
